@@ -1,6 +1,6 @@
 # yt-video-list-getter
 
-I made this to help search within the members only videos of a channel, since youtube currently provides no way to search within them.
+I made this to help search within the members only videos of a  youtube channel, since youtube currently provides no way to search within them.
 
 ### How I get the list
 Open Membership tab (must be logged in to an authorised account)
